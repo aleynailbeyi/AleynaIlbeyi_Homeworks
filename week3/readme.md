@@ -1,8 +1,6 @@
-## SQL Database
-
 #### Create Sql Database and Tables
 - Create Database 
-- Create Two Table (Products and Product_Photos)
+- Select Two Tables (Products and Product_Photos)
 - Join Operations
 
 
